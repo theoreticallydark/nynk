@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+body{
+  margin: 0;
+  font-family: futura;
+}
+html,body
+{
+    overflow-x: hidden; 
+}
+
+.home{
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.homeA{
+  background-color: #15ff7b;
+  color: black;
+  padding: 40px 80px;
+  display: flex;
+  flex-direction: row;
+}
+.homeB{
+  background-color: #1b1d3b;
+  color: black;
+  padding: 40px 80px;
+}
+
